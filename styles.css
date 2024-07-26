@@ -1,0 +1,19 @@
+
+.container-text{
+    justify-content: space-between;
+    display: flex;
+}
+
+.text{
+    font-size: 2.1rem;
+}
+
+.backup-text{
+    margin-left: 100px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
